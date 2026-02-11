@@ -27,6 +27,7 @@ In this simulation, each of the 50 agents operates as an independent autonomous 
 
 ## Simulation Preview
 ![Agent Navigation](./assets/simulation.gif)
+*
 *Note: Agents start with random movements and gradually optimize their paths as epsilon decreases and cumulative rewards increase.*
 
 ## Performance Analysis
